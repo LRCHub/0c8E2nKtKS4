@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Chill",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-27T13:01:49.410174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eat Em Up L Chill",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Eat_Em_Up_L_Chill_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Identity (Zaxx Remix) - Sakura Chill Beats Singles",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/02_Identity_(Zaxx_Remix)_-_Sakura_Chill_Beats_Singles_Kiro_Akiyama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Terminally Chill",
+      "artist": "Neon Indian",
+      "has_synced": false,
+      "path": "select/03_Terminally_Chill_Neon_Indian.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Chill Then (o Portão)",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/04_So_Chill_Then_(o_Portão)_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cold Chill",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/05_Cold_Chill_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forgive Me (Chill Out Radio Edit)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/06_Forgive_Me_(Chill_Out_Radio_Edit)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "License To Chill",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/07_License_To_Chill_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Someone to Chill With",
+      "artist": "Erika de Casier",
+      "has_synced": true,
+      "path": "select/08_Someone_to_Chill_With_Erika_de_Casier.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Sudden Chill",
+      "artist": "Arthur Russell",
+      "has_synced": false,
+      "path": "select/09_A_Sudden_Chill_Arthur_Russell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Chill",
+      "artist": "Abra",
+      "has_synced": false,
+      "path": "select/10_No_Chill_Abra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "These Days Are Ours (Zetandel Chill Out Mix)",
+      "artist": "Emma Hewitt",
+      "has_synced": true,
+      "path": "select/11_These_Days_Are_Ours_(Zetandel_Chill_Out_Mix)_Emma_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Me - Felix Cartal's Chill Mix",
+      "artist": "Felix Cartal feat. Lights",
+      "has_synced": false,
+      "path": "select/12_Love_Me_-_Felix_Cartal's_Chill_Mix_Felix_Cartal_feat._Lights.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Me (Felix Cartal's Chill Mix)",
+      "artist": "Felix Cartal LIGHTS",
+      "has_synced": false,
+      "path": "select/13_Love_Me_(Felix_Cartal's_Chill_Mix)_Felix_Cartal_LIGHTS.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Chill of October",
+      "artist": "Client",
+      "has_synced": false,
+      "path": "select/14_The_Chill_of_October_Client.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chill",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/15_Chill_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sail Away (Benztown Chill Out Mix)",
+      "artist": "The Rasmus",
+      "has_synced": false,
+      "path": "select/16_Sail_Away_(Benztown_Chill_Out_Mix)_The_Rasmus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chill-Chill-Dal-Da",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Chill-Chill-Dal-Da_LiSA.txt"
+    }
+  ]
+}
